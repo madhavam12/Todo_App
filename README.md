@@ -1,2 +1,3 @@
 # Todo_App
-A productive app to stay productive all day. Complete your Todos on time!
+Todos is a personal productivity application. 
+It uses Provider for State Management. It's a simple and a beautiful application to stay productive all day!
